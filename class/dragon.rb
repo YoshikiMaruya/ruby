@@ -19,3 +19,6 @@ class Dragon
     @defense_power * 2
   end
 end
+
+dragon1 = Dragon.new(200, 30, 20)
+dragon2 = Dragon.new(400, 10, 20)
